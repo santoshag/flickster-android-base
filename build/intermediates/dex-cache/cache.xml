@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/okio-1.8.0_bf395d540311ce9c8f084edb621f70dd143362f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_fb8e96130e3411f256b4dfb41e64bb54c4dc68b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.android/build-cache/9d57a98e2eb5598a45a8e9b74512604394df5ad5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/classes_0ad11f66c740f0749726b6e2aff11d5a61b6bfc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/jsr305-3.0.1_c70c1c4b2d2ca4eb6a0dce7cd476213437f7e72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.android/build-cache/dda3a696fe18c22ffd96d1b12dc8b1813e2126ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/classes_ec7483c2fe3d303505251ffb82a6c349bc681733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_ee6cee852d3f9807a5c3a24aced55a627526d8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.3.0/af000bec2036a2a9d07197c4b03b8966bfc60b03/rxjava-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af000bec2036a2a9d07197c4b03b8966bfc60b03">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/rxjava-1.3.0_6ec80b26332cad4824ad1008040324517b044d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_ba481392d781679c1815c27cc8f48eba6a0c4aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.android/build-cache/faf5e1d91c2894add9681a334beab913259d08e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/classes_f198acf8508173a5b14ca3b3dc74bc1f791bb7c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.android/build-cache/31b09388f6ad9a4249336ee2210df424ebe488b7/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_5ae420918220594003a30952aa3cccb48a7b5d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.nytimes.android/store/2.1.0/5e276107d34cdd131c9171352acaee802fb65288/store-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e276107d34cdd131c9171352acaee802fb65288">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/store-2.1.0_c3b8119ef845dc7c688f2fe772505cfacceaa8e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_a8b2fee1237e48446d8c1f51709146228918dcb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.0/ba14d8b7789efde5ee150eacb297b7237abca39/logging-interceptor-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ba14d8b7789efde5ee150eacb297b7237abca39">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.3.0_2e80b9036f435e96e157a48a7662c8c37bce6ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.nytimes.android/cache/2.1.0/2f68d58255327f2243e4b22f0ac33f80e17521d7/cache-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f68d58255327f2243e4b22f0ac33f80e17521d7">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/cache-2.1.0_f483f9bb82c7efce880c8ef3a61af5efcec6b766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/gson-2.8.0_852601043d1f13db91164be5e7a23c0240330a57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.android/build-cache/9183d5792ac2ba733c23166aa83a18ae426e8914/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fb1fe781490fcf9fa47ee2c268279f777266a6a">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/classes_f961939dd408dc441cec72a507028b7689065e57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_dd6bcebf15399a370929c94965be87576be02586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_ef30e57a3e53eacefe868e06dd9a7c5c4845bbdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_c472de523460f4972a6f2242e07a223530474b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/Desktop/Flickster-master/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_88072b297b3797611adee1c6214327f7a0d4bb9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.android/build-cache/31b09388f6ad9a4249336ee2210df424ebe488b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/classes_634090e94eb01d4f13ea97a0ff59646505348a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.android/build-cache/ff0e1e97da841f04f611b552b698409beb721e62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/classes_16511d86a9c06a71002e6aaaaec85eb23d2d22c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.android/build-cache/ce7f6278f12d2e4ccfc66ecea024babf33d4a7c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/classes_6f55fc6de246e015a6127886681766a82fedc627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santoshgogi/.android/build-cache/c1c89cab88167f3ab0c1678e52a1db486dd465f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/santoshgogi/Desktop/Flickster-master/app/build/intermediates/pre-dexed/debug/classes_e19b00e6bd8716d1f9c122cc09f2eed727255c6e.jar" />
+    </item>
+
+</items>
